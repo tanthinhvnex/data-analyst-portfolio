@@ -11,7 +11,7 @@ I’m passionate about turning raw data into meaningful insights that drive smar
 🏫 **Ho Chi Minh City University of Technology (HCMUT – Bach Khoa University)**  
 💬 **TOEIC 745** | Strong analytical mindset | Detail-oriented problem solver  
 
-I specialize in **data analysis, visualization, and business insights generation**, with hands-on experience in **Python, SQL, Power BI, IBM Cognos, and Looker Studio**.  
+I specialize in **data analysis, visualization, and business insights generation**, with hands-on experience in **Python, SQL, Power BI and Excel**.  
 My goal is to bridge data and decision-making through actionable, data-driven storytelling.
 
 ---
@@ -71,7 +71,7 @@ Performed **large-scale sentiment analysis** using BigData technologies and inte
 
 | Category | Tools & Technologies |
 |-----------|----------------------|
-| **Data Visualization** | Power BI, Looker Studio, Excel |
+| **Data Visualization** | Power BI, Excel, Python |
 | **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn) |
 | **Databases & SQL** | MySQL, PostgreSQL, MongoDB, ETL |
 | **Business Intelligence** | KPI Design, Report Automation, Data Modeling |
@@ -89,7 +89,7 @@ Performed **large-scale sentiment analysis** using BigData technologies and inte
 - **MOS Excel Expert** – Microsoft (2025)  
 - **TOEIC 745 (Listening & Reading)** – IIG Vietnam (2024)  
 
-👉 [View All Certifications on LinkedIn](https://www.linkedin.com/in/thinh-lam-a7b7361a7/details/certifications/)
+👉 [View All 29+ Certifications on LinkedIn](https://www.linkedin.com/in/thinh-lam-a7b7361a7/details/certifications/)
 
 ---
 
