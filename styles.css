@@ -490,6 +490,11 @@ section {
     font-size: 0.9rem;
 }
 
+/* Career Objective Section */
+/* .objective {
+    background: var(--bg-light);
+} */
+
 /* Projects Section */
 .projects-category {
     margin-bottom: 4rem;
