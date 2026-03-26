@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(ls:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nUpdate Work Experience: Business Intelligence Analyst role\n\n- Changed job title from Salesforce & Automation Junior to Business Intelligence Analyst\n- Updated responsibilities with CRM data modeling, executive dashboards, GA4 analytics, data integration, and AI documentation\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git push:*)"
     ]
   }
 }
